@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-mohanapriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohanapriya--01629954/)](https://www.linkedin.com/in/mohanapriya--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-mohanapriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohanapriya0306/)](https://www.linkedin.com/in/mohanapriya0306/)
 [![Website Badge](https://img.shields.io/badge/WebSite-mohanapriya-green)](https://www.mohanapriyak0306)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-mohanapriya-yellow)](https://stackoverflow.com/users/3687251/mohanapriya-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-mohanapriya-yellow)](https://stackoverflow.com/users/22418041/mohanapriyak0306)
 
 I'm
 Full Stack Solution Architect
